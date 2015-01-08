@@ -1,0 +1,59 @@
+.navbar-default
+{
+	background-color:black;
+	position:fixed;
+	z-index:100;
+	width:100%;
+}
+.navbar-header a:button:hover
+{
+	color:grey;
+  background:white;
+}
+
+.navbar-default .navbar-nav li a 
+{
+color: white;
+}
+.navbar-default .navbar-brand 
+{
+font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+font-size: 14px;
+line-height: 1.42857143;
+color: white;
+
+}
+.prog h1
+{
+	padding:80px;
+	z-index:0;
+	text-align:center;
+	font-size:40px;
+	color:Black;
+	TOP:10%;
+	 text-decoration: underline;
+
+}
+
+.prog p
+{
+	z-index:0;
+	text-align:center;
+	font-size:20px;
+	color:gray;
+	
+	bottom:15%;
+}
+.prog a
+{
+	z-index:0;
+	text-align:center;
+	font-size:20px;
+	color:gray;
+	display:block;
+	bottom:15%;
+}
+.col-sm-8
+{
+    margin-left: 220px;
+}
